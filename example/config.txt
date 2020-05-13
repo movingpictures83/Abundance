@@ -1,0 +1,2 @@
+Prefix plugins/Abundance/example
+Plugin Abundance inputfile normalized.csv outputfile averagecounts.noa
