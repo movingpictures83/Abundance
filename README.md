@@ -2,7 +2,7 @@
 # Language: Python
 # Input: CSV
 # Output: NOA
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
 
 PluMA plugin to take a CSV file of abundances and produce an output
 Node Attribute file (NOA) for Cytoscape, consisting of the 
